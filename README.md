@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nb.dev@hotmail.com**
 
-- ⚡ Fun fact **Everyone pronounces me last name wrong 😅**
+- ⚡ Fun fact **Everyone pronounces my last name wrong 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
