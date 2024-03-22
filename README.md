@@ -5,6 +5,8 @@
 
 - 🌱 I’m addicted to **learning and growing every day**
 
+- 🤍 I have a deep love for **plants💐 and cats🐱**
+
 - 📫 How to reach me **nb.dev@hotmail.com**
 
 - ⚡ Fun fact **Everyone pronounces my last name wrong 😅**
