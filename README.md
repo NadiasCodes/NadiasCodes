@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadia</h1>
 <h3 align="center">Passionate about front-end development</h3>
 
-- 🔭 I’m currently working on [E-Commerce Website](https://github.com/NadiasCodes/e-commerce-website-react)
+- 🔭 I’m currently working on [E-Commerce Website](https://github.com/NadiasCodes/e-commerce-website-react) project
 
 - 🌱 I’m addicted to **learning and growing every day**
 
