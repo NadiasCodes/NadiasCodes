@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Nadia 👩‍💻</h1>
 <h3 align="center">Passionate about front-end development</h3>
 
-- 🔭 I’m currently working on learning more JavaScript and React theory & started a new simple project with HTML, CSS & JavaScript | src soon
+- 🔭 I’m currently learning more JavaScript and React theory <br /> Simultaneously i am working on a new page project: src soon
 
-- 💫 Next step: Creating an interactive application
+- 💫 Next step: 
 
 - 🌱 I’m addicted to **learning and growing every day**
 
