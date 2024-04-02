@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Nadia 👩‍💻</h1>
 <h3 align="center">Passionate about front-end development</h3>
 
-- 🔭 I’m currently learning more JavaScript and React theory. <br /> Simultaneously I am working on a new page project:(https://github.com/NadiasCodes/Responsive-Website---Interior-Design-Services)
+- 🔭 I’m currently focusing on mastering React. <br />
 
-- 💫 Next step: TBA
+- 💻 Recent Project:https://github.com/NadiasCodes/Responsive-Website---Interior-Design-Services
+
+- 💫 Goal: Create various React projects, transforming my old javaScript projects into React
 
 - 🌱 I’m addicted to **learning and growing every day**
 
