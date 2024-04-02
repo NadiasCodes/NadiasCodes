@@ -5,7 +5,7 @@
 
 - 💻 Recent Project:https://github.com/NadiasCodes/Responsive-Website---Interior-Design-Services
 
-- 💫 Goal: Create various React projects, transforming my old javaScript projects into React
+- 💫 Goals: From now on I am gonna create projects only in React & transform my old javaScript projects into React
 
 - 🌱 I’m addicted to **learning and growing every day**
 
