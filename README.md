@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Nadia 👩‍💻</h1>
 <h3 align="center">Passionate about front-end development</h3>
 
-- 🔭 I’m currently focusing on mastering React. <br />
+- 🔭 I’m currently focusing on mastering React and planning to re-design my portfolio in React. <br />
 
 - 💻 Recent Project:https://github.com/NadiasCodes/Responsive-Website---Interior-Design-Services
 
-- 💫 Goals: From now on I am gonna create projects only in React & transform my old javaScript projects into React
+- 💫 Goals: From now on I am going to create projects only in React & transform my old javaScript projects into React
 
 - 🌱 I’m addicted to **learning and growing every day**
 
