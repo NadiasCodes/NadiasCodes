@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nadia 👩‍💻</h1>
 <h3 align="center">Passionate about front-end development</h3>
-<p>Looking for Internships/Practicum in Germany or remote</p>
+<p align="center">Looking for Internships/Practicum in Germany or remote</p>
 
 - 🔭 I’m currently focusing on mastering React and planning to re-design my portfolio in React. <br />
 
