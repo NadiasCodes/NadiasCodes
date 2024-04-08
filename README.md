@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently focusing on mastering React and planning to re-design my portfolio in React. <br />
 
-- 💻 Recent Project:https://github.com/NadiasCodes/Responsive-Website---Interior-Design-Services
-
+- 💻 Recent Project:https://responsive-website-interior-design-services.vercel.app/
+  
 - 💫 Goals: From now on I am going to create projects only in React & transform my old javaScript projects into React
 
 - 🌱 I’m addicted to **learning and growing every day**
