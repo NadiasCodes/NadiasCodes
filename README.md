@@ -6,7 +6,7 @@
 
 - 💻 Recent Project:https://responsive-website-interior-design-services.vercel.app/
   
-- 💫 Goals: From now on I am going to create projects only in React & transform my old javaScript projects into React
+- 💫 Goals: From now on I am going to create projects only in React
 
 - 🌱 I’m addicted to **learning and growing every day**
 
