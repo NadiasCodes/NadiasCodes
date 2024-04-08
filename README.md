@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about front-end development</h3>
 <p align="center">Looking for an Internship/a Practicum in Germany or remote</p>
 
-- 🔭 I’m currently focusing on mastering React and planning to re-design my portfolio in React. <br />
+- 🔭 My primary focus is on mastering React. Additionally, I intend to redesign my portfolio using frameworks that I am currently learning such as Tailwind, Next Js & libraries such as Framer Motion! <br />
 
 - 💻 Recent Project:https://responsive-website-interior-design-services.vercel.app/
   
