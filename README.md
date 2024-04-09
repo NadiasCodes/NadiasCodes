@@ -5,7 +5,7 @@
   <img height="400" src="https://i.imgur.com/3eUgyKK.gif"  />
 </div>
 
-<h3 align="left"About me":</h3>
+<h3 align="left">About Me:</h3>
 
 - :telescope: My primary focus is on mastering React. Additionally, I intend to redesign my portfolio using frameworks that I am currently learning such as Tailwind, NextJs & libraries such as Framer Motion! <br />
 
