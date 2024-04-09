@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about front-end development</h3>
 
   <div align="center">
-  <img height="200" src="https://jmp.sh/s/FznyklQK2f1se0hnGmKA"  />
+  <img height="200" src="[https://jmp.sh/s/FznyklQK2f1se0hnGmKA](https://imgur.com/3eUgyKK)"  />
 </div>
 
 ###
