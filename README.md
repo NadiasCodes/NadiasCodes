@@ -1,4 +1,11 @@
 <h1 align="center">Hi, I'm Nadia 👩‍💻</h1>
+
+
+![ddc013635f19439384eca06eb076e0e4](https://github.com/NadiasCodes/NadiasCodes/assets/150697120/c3d96003-ac67-469d-a81d-edc134ecbdf4)
+
+
+
+
 <h3 align="center">Passionate about front-end development</h3>
 <p align="center">Looking for an Internship/a Practicum in Germany or remote</p>
 
