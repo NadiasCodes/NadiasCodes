@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nadia 👩‍💻</h1>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" align="center"/>
 <h3 align="center">Passionate about front-end development</h3>
 <p align="center">Looking for an Internship/a Practicum in Germany or remote</p>
 
