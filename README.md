@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about front-end development</h3>
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/3eUgyKK.gif"  />
+  <img height="400" src="https://i.imgur.com/3eUgyKK.gif"  />
 </div>
 
 About me: 
