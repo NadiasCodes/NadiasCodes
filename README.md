@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about front-end development</h3>
 
   <div align="center">
-  <img height="200" src="[![ddc013635f19439384eca06eb076e0e4](https://github.com/NadiasCodes/NadiasCodes/assets/150697120/c3d96003-ac67-469d-a81d-edc134ecbdf4)](https://jmp.sh/s/FznyklQK2f1se0hnGmKA)"  />
+  <img height="200" src="https://jmp.sh/s/FznyklQK2f1se0hnGmKA"  />
 </div>
 
 ###
