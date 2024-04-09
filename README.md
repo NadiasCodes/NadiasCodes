@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Nadia</h1>
 <h3 align="center">Passionate about front-end development</h3>
 
-- 🔭 I’m currently working on [E-Commerce Website](https://github.com/NadiasCodes/e-commerce-website-react)
+![ddc013635f19439384eca06eb076e0e4](https://github.com/NadiasCodes/NadiasCodes/assets/150697120/c3d96003-ac67-469d-a81d-edc134ecbdf4)
 
-- 🌱 I’m addicted to **learning and growing every day**
 
-- 👨‍💻 All of my projects are available at [https://nbfrontend.de/](https://nbfrontend.de/)
 
-- 📫 How to reach me **nb.dev@hotmail.com**
+- :telescope: My primary focus is on mastering React. Additionally, I intend to redesign my portfolio using frameworks that I am currently learning such as Tailwind, Next Js & libraries such as Framer Motion! <br />
 
-- ⚡ Fun fact **Everyone pronounces me last name wrong 😅**
+- :computer: Recent Project: mini react apps. Check my repository!
+- :dizzy: Goals: From now on I am going to create projects only in React
+
+- :seedling: I’m addicted to **learning and growing every day**
+
+- :white_heart: I have a deep love for **plants:bouquet: and cats:cat:**
+
+- :mailbox: How to reach me **nb.dev@hotmail.com**
+
+- :zap: Fun fact **Everyone pronounces my last name wrong :sweat_smile:**
 
 
 <h3 align="left">My socials:</h3>
