@@ -11,12 +11,8 @@
 
 - ⚡ Fun fact **Everyone pronounces me last name wrong 😅**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-https://dev.to/nadiafedev/simple-browser-in-vs-code-my-coding-experience-just-leveled-up-51gm
-<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My socials:</h3>
 <p align="left">
 <a href="https://dev.to/nadiafedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nadiafedev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nadia-bouli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nadia-bouli/" height="30" width="40" /></a>
