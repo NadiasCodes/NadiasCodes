@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nadia</h1>
 <h3 align="center">Passionate about front-end development</h3>
 
-  <div align="center">
-  <img height="200" src="https://imgur.com/a/Fpvxwmi"  />
+<div align="center">
+  <img height="200" src="https://i.imgur.com/3eUgyKK.gif"  />
 </div>
 
-###
-
-
-
-
+About me: 
 
 - :telescope: My primary focus is on mastering React. Additionally, I intend to redesign my portfolio using frameworks that I am currently learning such as Tailwind, Next Js & libraries such as Framer Motion! <br />
 
