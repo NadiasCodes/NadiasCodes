@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Nadia 👩‍💻</h1>
- <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif](https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" alt="bootstrap" width="40" height="40" display ="flex" justify-content="center"/>
 <h3 align="center">Passionate about front-end development</h3>
 <p align="center">Looking for an Internship/a Practicum in Germany or remote</p>
 
