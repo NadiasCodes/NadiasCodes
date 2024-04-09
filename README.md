@@ -4,8 +4,7 @@
 
 - 🔭 My primary focus is on mastering React. Additionally, I intend to redesign my portfolio using frameworks that I am currently learning such as Tailwind, Next Js & libraries such as Framer Motion! <br />
 
-- 💻 Recent Project:https://responsive-website-interior-design-services.vercel.app/
-  
+- 💻 Recent Project: mini react apps. Check my repository!
 - 💫 Goals: From now on I am going to create projects only in React
 
 - 🌱 I’m addicted to **learning and growing every day**
