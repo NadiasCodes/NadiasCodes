@@ -8,9 +8,9 @@
 
 <h3 align="left">About Me :</h3>
 
-- :telescope: My primary focus is on mastering React. Additionally, I intend to redesign my portfolio using frameworks that I am currently learning such as Tailwind, NextJs & libraries such as Framer Motion! <br />
+- :telescope: My primary focus is on mastering React. Additionally, I intend to expand my knowledge with Node.js and Framer Motion<br />
 
-- :computer: Recent Project: Mini React apps. Check my repository!
+- :computer: Recent Project: I re-worked my entire portfolio in React. From now on I will keep creating projects and contribute in open-source projects
 - :dizzy: Goals: From now on I am going to create projects only in React
 
 - :seedling: I’m addicted to **learning and growing every day**
