@@ -17,7 +17,7 @@
 
 - :white_heart: I have a deep love for **plantsand cats**
 
-- :mailbox: How to reach me **nb.dev@hotmail.com**
+- :mailbox: How to reach me **nb.dev@hotmail.com** || or via my new portfolio built in React https://nbfrontend.de/
 
 - :zap: Fun fact **Everyone pronounces my last name wrong :sweat_smile:**
 
