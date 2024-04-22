@@ -15,7 +15,7 @@
 
 - :seedling: I’m addicted to **learning and growing every day**
 
-- :white_heart: I have a deep love for **plants:bouquet: and cats:cat:**
+- :white_heart: I have a deep love for **plantsand cats**
 
 - :mailbox: How to reach me **nb.dev@hotmail.com**
 
