@@ -10,7 +10,7 @@
 
 - :telescope: My primary focus is on mastering React. Additionally, I intend to expand my knowledge with Node.js and Framer Motion<br />
 
-- :computer: Recent Project: I reworked my entire portfolio in React. From now on I will keep creating projects and contributing in open-sources
+- :computer: Recent Project: I reworked my entire portfolio in React. I will keep working on projects relentlessly!
 - :dizzy: Goals: Mastering React
 
 - :seedling: I’m addicted to **learning and growing every day**
