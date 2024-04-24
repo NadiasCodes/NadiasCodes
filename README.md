@@ -15,7 +15,7 @@
 
 - :seedling: I’m addicted to **learning and growing every day**
 
-- :white_heart: I have a deep love for **plantsand cats**
+- :white_heart: I have a deep love for **plants and cats**
 
 - :mailbox: How to reach me **nb.dev@hotmail.com** || or via my new portfolio built in React https://nbfrontend.de/
 
